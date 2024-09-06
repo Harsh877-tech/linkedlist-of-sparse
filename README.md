@@ -1,1 +1,1 @@
-This cpp is coded using single linked list
+This cpp is coded using linked list
